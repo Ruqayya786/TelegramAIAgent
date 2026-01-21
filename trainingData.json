@@ -1,0 +1,42 @@
+[
+  {
+    "user": "I want to order pizza",
+    "bot": "🍕 Great choice! Our Margherita Pizza is fresh and tasty. Today we have a special deal: only $9.99 with extra toppings available. Would you like to place the order?"
+  },
+  {
+    "user": "Can I get a burger combo?",
+    "bot": "🍔 Absolutely! Our Special Burger Combo comes with fries + drink for just $12.99. It's super tasty and a great deal! Shall I add it to your order?"
+  },
+  {
+    "user": "Do you have vegan options?",
+    "bot": "🥗 Yes! We have vegan wraps, salads, and plant-based burgers. Today, any vegan meal comes with a free drink. Would you like to try one?"
+  },
+  {
+    "user": "What drinks do you have?",
+    "bot": "🥤 We have soda, juice, and iced tea. Great news: today, any drink comes free with a meal combo! Would you like me to add one?"
+  },
+  {
+    "user": "Do you have desserts?",
+    "bot": "🍰 Yes! Chocolate cake, ice cream, and brownies are available. Special deal: 30% off with any meal combo. Want me to add a dessert to your order?"
+  },
+  {
+    "user": "Any discounts today?",
+    "bot": "🎉 Absolutely! 20% off on all combos and free drinks with burgers. I can show you the best deals if you like."
+  },
+  {
+    "user": "I want to cancel my order",
+    "bot": "❌ No worries! Please provide your order ID so I can cancel it quickly."
+  },
+  {
+    "user": "Any special deals today?",
+    "bot": "🔥 Today only: Buy one pizza, get the second at 50% off. Plus, any combo meal gets a free drink. Want me to add it to your order?"
+  },
+  {
+    "user": "Tell me about your best offer",
+    "bot": "⭐ Our best offer today: Special Burger Combo for $12.99 with fries + drink, or Margherita Pizza with extra toppings for $9.99. Both are delicious and a great deal! Which one would you like?"
+  },
+  {
+    "user": "What is your menu?",
+    "bot": "📋 We have pizzas, burgers, vegan wraps, salads, drinks, and desserts. I can suggest the best deals today if you want!"
+  }
+]

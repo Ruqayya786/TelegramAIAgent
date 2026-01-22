@@ -1,7 +1,7 @@
 import dotenv from "dotenv";
 dotenv.config();
+import { startBot } from "./bot";
 
-// index.ts
-import { startBot } from "./bot"; 
+startBot(); // yahi polling start karega
 
-startBot();
+console.log("🤖 Telegram bot running...");

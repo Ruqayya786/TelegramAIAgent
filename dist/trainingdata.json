@@ -1,0 +1,94 @@
+[
+    {
+        "user": "I want to order pizza",
+        "bot": " Great choice! Our Margherita Pizza is fresh and tasty. Today we have a special deal: only $9.99 with extra toppings available. Would you like to place the order?"
+    },
+    {
+        "user": "Can I get a burger combo?",
+        "bot": " Absolutely! Our Special Burger Combo comes with fries + drink for just $12.99. It's super tasty and a great deal! Shall I add it to your order?"
+    },
+    {
+        "user": "Do you have vegan options?",
+        "bot": " Yes! We have vegan wraps, salads, and plant-based burgers. Today, any vegan meal comes with a free drink. Would you like to try one?"
+    },
+    {
+        "user": "What drinks do you have?",
+        "bot": "We have soda, juice, and iced tea. Great news: today, any drink comes free with a meal combo! Would you like me to add one?"
+    },
+    {
+        "user": "Do you have desserts?",
+        "bot": " Yes! Chocolate cake, ice cream, and brownies are available. Special deal: 30% off with any meal combo. Want me to add a dessert to your order?"
+    },
+    {
+        "user": "Any discounts today?",
+        "bot": " Absolutely! 20% off on all combos and free drinks with burgers. I can show you the best deals if you like."
+    },
+    {
+        "user": "I want to cancel my order",
+        "bot": " No worries! Please provide your order ID so I can cancel it quickly."
+    },
+    {
+        "user": "Any special deals today?",
+        "bot": " Today only: Buy one pizza, get the second at 50% off. Plus, any combo meal gets a free drink. Want me to add it to your order?"
+    },
+    {
+        "user": "Tell me about your best offer",
+        "bot": " Our best offer today: Special Burger Combo for $12.99 with fries + drink, or Margherita Pizza with extra toppings for $9.99. Both are delicious and a great deal! Which one would you like?"
+    },
+    {
+        "user": "What is your menu?",
+        "bot": " We have pizzas, burgers, vegan wraps, salads, drinks, and desserts. I can suggest the best deals today if you want!"
+    },
+    {
+        "user": "hello",
+        "bot": "Hello! 👋 Welcome to Foodie Hub! We serve delicious meals with amazing deals. 🍔🍕🍝 What are you craving today?"
+    },
+    {
+        "user": "menu",
+        "bot": "📜 *Today's Menu – Foodie Hub*\n\n🍕 *Pizzas:*\n1. Margherita - Rs. 499\n2. BBQ Chicken - Rs. 699\n3. Veggie Delight - Rs. 599\n🔥 Deal: Buy 1 Get 1 Half Price on Large Pizzas!\n\n🍔 *Burgers:*\n1. Classic Chicken - Rs. 299\n2. Beef Burger - Rs. 349\n3. Veggie Burger - Rs. 249\nCombo: Burger + Fries + Drink Rs. 499\n\n🍝 *Pastas:*\n1. Alfredo White Sauce - Rs. 399\n2. Arrabiata Red Sauce - Rs. 399\n20% OFF on all pasta today!\n\n🌯 *Shawarma:*\n1. Chicken Shawarma - Rs. 299\n2. Beef Shawarma - Rs. 349\n\n🍟 *Fries:*\n1. Classic Fries - Rs. 149\n2. Cheese Fries - Rs. 199\n\n🥤 *Drinks:*\n1. Soft Drinks - Rs. 50\n2. Cold Coffee - Rs. 120\n\n🍰 *Desserts:*\n1. Chocolate Lava Cake - Rs. 199\n2. Brownie with Ice Cream - Rs. 249"
+    },
+    {
+        "user": "pizza",
+        "bot": "🍕 *Pizzas Menu:*\n1. Margherita - Rs. 499\n2. BBQ Chicken - Rs. 699\n3. Veggie Delight - Rs. 599\n🔥 Today's Deal: Buy 1 Get 1 Half Price on Large Pizzas! Taste & savings guaranteed 😋"
+    },
+    {
+        "user": "burger",
+        "bot": "🍔 *Burgers Menu:*\n1. Classic Chicken - Rs. 299\n2. Beef Burger - Rs. 349\n3. Veggie Burger - Rs. 249\n💥 Combo Deal: Burger + Fries + Drink Rs. 499. Delicious & budget-friendly!"
+    },
+    {
+        "user": "pasta",
+        "bot": "🍝 *Pastas Menu:*\n1. Alfredo White Sauce - Rs. 399\n2. Arrabiata Red Sauce - Rs. 399\n🎉 Special Offer: 20% OFF on all pastas today!"
+    },
+    {
+        "user": "shawarma",
+        "bot": "🌯 *Shawarma Menu:*\n1. Chicken Shawarma - Rs. 299\n2. Beef Shawarma - Rs. 349\nPerfect snack, tasty & light! 😋"
+    },
+    {
+        "user": "fries",
+        "bot": "🍟 *Fries Menu:*\n1. Classic Fries - Rs. 149\n2. Cheese Fries - Rs. 199\n✅ Pair with burgers or pizza for FREE dip today!"
+    },
+    {
+        "user": "drinks",
+        "bot": "🥤 *Drinks Menu:*\n1. Soft Drinks - Rs. 50\n2. Cold Coffee - Rs. 120\n💡 Special: Buy with pizza or burger for only Rs. 50 extra."
+    },
+    {
+        "user": "desserts",
+        "bot": "🍰 *Desserts Menu:*\n1. Chocolate Lava Cake - Rs. 199\n2. Brownie with Ice Cream - Rs. 249\nSweet treats for your perfect meal 😍"
+    },
+    {
+        "user": "deal",
+        "bot": "🔥 *Today's Best Deals:*\n- Family Combo: 2 Large Pizzas + 1.5L Drink Rs. 1999\n- Burger Combo: Burger + Fries + Drink Rs. 499\n- Pasta 20% OFF Today!"
+    },
+    {
+        "user": "order",
+        "bot": "Great! 😊 What would you like to order first? I can suggest combos or deals for extra savings!"
+    },
+    {
+        "user": "thanks",
+        "bot": "Thank you for choosing Foodie Hub! 🙏 Enjoy your meal 😋 If you want more, type 'menu' or ask for today's deals."
+    },
+    {
+        "user": "bye",
+        "bot": "Bye! 👋 Hope to see you again soon at Foodie Hub! Don’t forget to check our deals next time 😄"
+    }
+]

@@ -1,7 +1,6 @@
 import TelegramBot, { Message } from "node-telegram-bot-api";
 import { getOllamaReply } from "./ollama"; 
-import trainingDataRaw from "./trainingData.json";
-
+import trainingDataRaw from "./trainingdata.json";
 interface TrainingItem {
   user: string;
   bot: string;

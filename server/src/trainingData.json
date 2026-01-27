@@ -2,11 +2,11 @@
   
   {
     "user": "I want to order pizza",
-    "bot": " Great choice! Our Margherita Pizza is fresh and tasty. Today we have a special deal: only $9.99 with extra toppings available. Would you like to place the order?"
+    "bot": " Great choice! Our Margherita Pizza is fresh and tasty. Today we have a special deal: only Rs. 999 with extra toppings available. Would you like to place the order?"
   },
   {
     "user": "Can I get a burger combo?",
-    "bot": " Absolutely! Our Special Burger Combo comes with fries + drink for just $12.99. It's super tasty and a great deal! Shall I add it to your order?"
+    "bot": " Absolutely! Our Special Burger Combo comes with fries + drink for just Rs.900. It's super tasty and a great deal! Shall I add it to your order?"
   },
   {
     "user": "Do you have vegan options?",
@@ -43,15 +43,15 @@
 ,
   {
     "user": "hello",
-    "bot": "Hello! 👋 Welcome to Foodie Hub! We serve delicious meals with amazing deals. 🍔🍕🍝 What are you craving today?"
+    "bot": "Hello!  Welcome to Foodie Hub! We serve delicious meals with amazing deals.  What are you craving today?"
   },
   {
     "user": "menu",
-    "bot": "📜 *Today's Menu – Foodie Hub*\n\n🍕 *Pizzas:*\n1. Margherita - Rs. 499\n2. BBQ Chicken - Rs. 699\n3. Veggie Delight - Rs. 599\n🔥 Deal: Buy 1 Get 1 Half Price on Large Pizzas!\n\n🍔 *Burgers:*\n1. Classic Chicken - Rs. 299\n2. Beef Burger - Rs. 349\n3. Veggie Burger - Rs. 249\nCombo: Burger + Fries + Drink Rs. 499\n\n🍝 *Pastas:*\n1. Alfredo White Sauce - Rs. 399\n2. Arrabiata Red Sauce - Rs. 399\n20% OFF on all pasta today!\n\n🌯 *Shawarma:*\n1. Chicken Shawarma - Rs. 299\n2. Beef Shawarma - Rs. 349\n\n🍟 *Fries:*\n1. Classic Fries - Rs. 149\n2. Cheese Fries - Rs. 199\n\n🥤 *Drinks:*\n1. Soft Drinks - Rs. 50\n2. Cold Coffee - Rs. 120\n\n🍰 *Desserts:*\n1. Chocolate Lava Cake - Rs. 199\n2. Brownie with Ice Cream - Rs. 249"
+    "bot": "Today's Menu – Foodie Hub Pizzas:\n1. Margherita - Rs. 499\n2. BBQ Chicken - Rs. 699\n3. Veggie Delight - Rs. 599\n🔥 Deal: Buy 1 Get 1 Half Price on Large Pizzas!\n\n🍔 *Burgers:*\n1. Classic Chicken - Rs. 299\n2. Beef Burger - Rs. 349\n3. Veggie Burger - Rs. 249\nCombo: Burger + Fries + Drink Rs. 499\n\n🍝 Pastas:\n1. Alfredo White Sauce - Rs. 399\n2. Arrabiata Red Sauce - Rs. 399\n20% OFF on all pasta today!\n\n🌯 Shawarma:\n1. Chicken Shawarma - Rs. 299\n2. Beef Shawarma - Rs. 349\n\n🍟 Fries:\n1. Classic Fries - Rs. 149\n2. Cheese Fries - Rs. 199\n\n🥤 *Drinks:*\n1. Soft Drinks - Rs. 50\n2. Cold Coffee - Rs. 120\n\n🍰 Desserts:\n1. Chocolate Lava Cake - Rs. 199\n2. Brownie with Ice Cream - Rs. 249"
   },
   {
     "user": "pizza",
-    "bot": "🍕 *Pizzas Menu:*\n1. Margherita - Rs. 499\n2. BBQ Chicken - Rs. 699\n3. Veggie Delight - Rs. 599\n🔥 Today's Deal: Buy 1 Get 1 Half Price on Large Pizzas! Taste & savings guaranteed 😋"
+    "bot": "🍕 Pizzas Menu:*\n1. Margherita - Rs. 499\n2. BBQ Chicken - Rs. 699\n3. Veggie Delight - Rs. 599\n🔥 Today's Deal: Buy 1 Get 1 Half Price on Large Pizzas! Taste & savings guaranteed 😋"
   },
   {
     "user": "burger",
